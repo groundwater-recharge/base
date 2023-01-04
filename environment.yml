@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - jupyterhub=1.5
   - cython
   - numpy
   - scipy
