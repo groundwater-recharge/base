@@ -1,4 +1,5 @@
 name: em_recharge
+
 channels:
   - conda-forge
   - defaults
@@ -9,20 +10,23 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
+  - SimPEG
   - pyproj
   - verde
-  - jupyterlab
   - ipykernel
   - ipywidgets
   - ipyleaflet
-  - leafmap
-  - voila
-  - geopandas
   - ipympl
-  - jupyter-resource-usage
+  - leafmap
+  - dill
+  - discretize
+  - vtk
   - pip
   - pip:
       - scikit-fmm
-      - SimPEG
+      - redivis
       - rasterio
+      - python-dotenv
+      - curvenote
       - rio-cogeo
+      - google-resumable-media
