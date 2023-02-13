@@ -15,9 +15,9 @@ dependencies:
   - pyproj
   - verde
   - ipykernel
-  - ipywidgets
+  - ipywidgets>=8
   - ipyleaflet
-  - ipympl
+  - ipympl>=0.9.2
   - leafmap
   - dill
   - discretize
