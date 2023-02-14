@@ -7,7 +7,7 @@ dependencies:
   - python==3.8.10
   - jupyterhub=1.5
   - cython
-  - numpy
+  - numpy<1.24
   - scipy
   - matplotlib
   - pandas
