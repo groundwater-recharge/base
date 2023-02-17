@@ -1,5 +1,0 @@
-SIMULATION_ID=<not-a-real-simulation-id>
-REDIVIS_API_ENDPOINT=https://recharge-api.curvenote.dev/redivis
-REDIVIS_API_TOKEN=<add-your-token>
-RECHARGE_API_ENDPOINT=https://recharge-api.curvenote.dev
-RECHARGE_API_TOKEN=<add-your-token>
