@@ -21,7 +21,7 @@ dependencies:
   - leafmap
   - dill
   - discretize
-  - vtk
+  - pyvista
   - pip
   - pip:
       - scikit-fmm
