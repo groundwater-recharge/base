@@ -11,7 +11,7 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
-  - SimPEG
+  - SimPEG=0.18.1
   - pyproj
   - verde
   - ipykernel
