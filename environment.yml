@@ -31,4 +31,4 @@ dependencies:
       - curvenote
       - rio-cogeo
       - google-resumable-media
-      - emrecharge==0.0.9
+      - emrecharge==0.0.10
